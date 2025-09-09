@@ -36,13 +36,24 @@ Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.
 Tutorial: [![Open In 
 Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2025/blob/master/2_vlm/vlm_tutorial_practical_1_students.ipynb)
 
+Solution: [![Open In 
+Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2025/blob/master/2_vlm/vlm_tutorial_practical_1_solution.ipynb)
+
+
 #### Part 2:
 Tutorial: [![Open In 
 Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2025/blob/master/2_vlm/vlm_tutorial_practical_2_students.ipynb)
 
+Solution: [![Open In 
+Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2025/blob/master/2_vlm/vlm_tutorial_practical_2_solution.ipynb)
+
+
 #### Part 3:
 Tutorial: [![Open In 
 Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2025/blob/master/2_vlm/vlm_tutorial_practical_3_students.ipynb)
+
+Solution: [![Open In 
+Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2025/blob/master/2_vlm/vlm_tutorial_practical_3_solution.ipynb)
 
 ---
 
