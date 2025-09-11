@@ -19,4 +19,3 @@ This is the M2L tutorial on Graph Neural Networks! In this tutorial, you will le
 
 Tutorial: [![Open In 
 Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2025/blob/master/4_gnn/M2L_GNN_Tutorial.ipynb)
-
