@@ -29,10 +29,21 @@ You will find theoretical explanations in each chapter that will give you enough
 Tutorial: [![Open In 
 Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2025/blob/master/3_rl/M2L25_RL01__Intro_to_RL_exercise_[exercise].ipynb)
 
+Solution: [![Open In 
+Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2025/blob/master/3_rl/M2L25_RL01__Intro_to_RL_exercise_[solutions].ipynb)
+
+
 #### Part 2:
 Tutorial: [![Open In 
 Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2025/blob/master/3_rl/M2L25_RL02__Policy_gradient_methods_[exercise].ipynb)
 
+Solution: [![Open In 
+Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2025/blob/master/3_rl/M2L25_RL02__Policy_gradient_methods_[solutions].ipynb)
+
+
 #### Part 3:
 Tutorial: [![Open In 
 Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2025/blob/master/3_rl/M2L25_RL03__RL_for_LLMs_[exercise].ipynb)
+
+Solution: [![Open In 
+Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2025/blob/master/3_rl/M2L25_RL03__RL_for_LLMs_[solutions].ipynb)
